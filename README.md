@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="create-database-jornada.svg" alt="CREATE DATABASE jornada;" />
-</p>
 # Olá, eu sou o Arthur Rosário 👋
  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
